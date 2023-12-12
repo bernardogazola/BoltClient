@@ -1,5 +1,6 @@
 package boltclient;
 
+import boltclient.event.EventManager;
 import boltclient.gui.SplashProgress;
 
 public class Client {
